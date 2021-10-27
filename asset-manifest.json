@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/iComidaFrontend/static/js/main.ba0f33c0.chunk.js",
+    "main.js.map": "/iComidaFrontend/static/js/main.ba0f33c0.chunk.js.map",
+    "runtime-main.js": "/iComidaFrontend/static/js/runtime-main.ea3a2dfb.js",
+    "runtime-main.js.map": "/iComidaFrontend/static/js/runtime-main.ea3a2dfb.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/iComidaFrontend/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.fdfb4ea3.chunk.js": "/iComidaFrontend/static/js/2.fdfb4ea3.chunk.js",
+    "static/js/2.fdfb4ea3.chunk.js.map": "/iComidaFrontend/static/js/2.fdfb4ea3.chunk.js.map",
+    "index.html": "/iComidaFrontend/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/iComidaFrontend/static/css/2.0a9ec390.chunk.css.map",
+    "static/js/2.fdfb4ea3.chunk.js.LICENSE.txt": "/iComidaFrontend/static/js/2.fdfb4ea3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea3a2dfb.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.fdfb4ea3.chunk.js",
+    "static/js/main.ba0f33c0.chunk.js"
+  ]
+}
